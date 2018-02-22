@@ -1,0 +1,7 @@
+@@import "flip-card.css";
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: hsl(200,80%,10%)
+}
